@@ -19,7 +19,7 @@ Linux, Nginx, Gunicorn, Docker, Git, Pandas, Aiogram, Scraping, PostgreSQL, Mong
   -Developed a simple website for a dental office in New York on Django, and hosted it on a cloud platform (Digital Ocean Droplet) using gunicorn, docker, nginx
   -Implemented Datetime picker, created a booking form, email sending, custom admin panel
   -It was created single-handedly by me, Both frontend and backend, deployment, generating ideas and solutions, Lowered their expenses from 30$ p/m(Wix hosting) to 6$ p/m(Digital Ocean Droplet)
-  link: https://www.kopyoffdentalart.com/
+  link: https://www.kopyoffdental.com/
 #### Was working on a Unity game, which was published by YSO Corp
   However, this game had bad metrics(high CPI), but the fact is I made it by myself, using Unity, C#, Photoshop, Blender and a lot of other stuff. 
   link: https://play.google.com/store/apps/details?id=com.Ezzzz4.HookRun3D
