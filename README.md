@@ -17,6 +17,7 @@ Linux, Nginx, Gunicorn, Docker, Git, Pandas, Aiogram, Scraping, PostgreSQL, Mong
     <li>We were using Python Flask framework, Link is at the end of the cv</li>
   </ul>
   link: https://github.com/maxtkach/ustarter
+  
 #### Website Development for Small Business
   <ul>
     <li>Developed a simple website for a dental office in New York on Django, and hosted it on a cloud platform (Digital Ocean Droplet) using gunicorn, docker, nginx</li>
@@ -24,9 +25,11 @@ Linux, Nginx, Gunicorn, Docker, Git, Pandas, Aiogram, Scraping, PostgreSQL, Mong
     <li>It was created single-handedly by me, Both frontend and backend, deployment, generating ideas and solutions, Lowered their expenses from 30$ p/m(Wix hosting) to 6$ p/m(Digital Ocean Droplet)</li>
   </ul>
   link: https://www.kopyoffdental.com/
+  
 #### Was working on a Unity game, which was published by YSO Corp
   However, this game had bad metrics(high CPI), but the fact is I made it by myself, using Unity, C#, Photoshop, Blender and a lot of other stuff. 
   link: https://play.google.com/store/apps/details?id=com.Ezzzz4.HookRun3D
+  
 #### Pet Projects
   <ul>
     <li>QuizDefiner(quiz website, used django, elasticsearch, sqlite3, mongodb, rest api, pandas..) </li>
