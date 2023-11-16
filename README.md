@@ -6,7 +6,7 @@
 Python, C++, C#, Ruby, Javascript
 
 #### Frameworks:
-Django, Flask, sinatra
+Django, Flask, React.js
 
 #### Other:
 Unity, Linux, Nginx, Gunicorn, Docker, Git, Pandas, Aiogram, Scraping, PostgreSQL, MongoDB, ElasticSearch, HTML, CSS, API, OOP, Microservices
