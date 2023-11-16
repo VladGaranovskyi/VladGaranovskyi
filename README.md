@@ -24,9 +24,11 @@ Linux, Nginx, Gunicorn, Docker, Git, Pandas, Aiogram, Scraping, PostgreSQL, Mong
   However, this game had bad metrics(high CPI), but the fact is I made it by myself, using Unity, C#, Photoshop, Blender and a lot of other stuff. 
   link: https://play.google.com/store/apps/details?id=com.Ezzzz4.HookRun3D
 #### Pet Projects
-  -QuizDefiner(quiz website, used django, elasticsearch, sqlite3, mongodb, rest api, pandas..) 
-  -ComputerSurferBot(Telegram bot, which can scrape the PCs from ebay and newegg stores, made filtering, sorting and output is a csv file with all the data, used aiogram, beautifulsoup, httpx, asyncio, pandas)
-  -Other simple training projects like Python automation script, post blog django and flask website, discord bot, currency scraper, flask online chat, Unity unfinished games...
+  <ul>
+    <li>QuizDefiner(quiz website, used django, elasticsearch, sqlite3, mongodb, rest api, pandas..) </li>
+    <li>ComputerSurferBot(Telegram bot, which can scrape the PCs from ebay and newegg stores, made filtering, sorting and output is a csv file with all the data, used aiogram, beautifulsoup, httpx, asyncio, pandas)</li>
+    <li>Other simple training projects like Python automation script, post blog django and flask website, discord bot, currency scraper, flask online chat, Unity unfinished games...</li>
+  </ul>
 
 ## 🎓Education History🎓
 
