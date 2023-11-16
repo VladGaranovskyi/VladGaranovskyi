@@ -1,12 +1,15 @@
 # Hi, My name is Vlad, here's my CV)
 
 ## ⚙️Skills⚙️
+
 #### Programming Languages: 
 Python, C++, C#, Ruby, Javascript
+
 #### Frameworks:
-Django, Flask, sinatra, Unity
+Django, Flask, sinatra
+
 #### Other:
-Linux, Nginx, Gunicorn, Docker, Git, Pandas, Aiogram, Scraping, PostgreSQL, MongoDB, ElasticSearch, HTML, CSS, API, OOP, Microservices
+Unity, Linux, Nginx, Gunicorn, Docker, Git, Pandas, Aiogram, Scraping, PostgreSQL, MongoDB, ElasticSearch, HTML, CSS, API, OOP, Microservices
 
 ## 💻Work Experience💻
 
