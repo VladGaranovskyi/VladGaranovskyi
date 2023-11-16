@@ -11,14 +11,18 @@ Linux, Nginx, Gunicorn, Docker, Git, Pandas, Aiogram, Scraping, PostgreSQL, Mong
 ## 💻Work Experience💻
 
 #### Web App Development for Ukrainian Hackathon “FRESH AIR 2023”:
-  -Me and my college friends have created a startapp for Hackathon and presented it there
-  -I was leading the development, generating the ideas, the 80% of the backend was written by me
-  -We were using Python Flask framework, Link is at the end of the cv
+  <ul>
+    <li>Me and my college friends have created a startapp for Hackathon and presented it there</li>
+    <li>I was leading the development, generating the ideas, the 80% of the backend was written by me</li>
+    <li>We were using Python Flask framework, Link is at the end of the cv</li>
+  </ul>
   link: https://github.com/maxtkach/ustarter
 #### Website Development for Small Business
-  -Developed a simple website for a dental office in New York on Django, and hosted it on a cloud platform (Digital Ocean Droplet) using gunicorn, docker, nginx
-  -Implemented Datetime picker, created a booking form, email sending, custom admin panel
-  -It was created single-handedly by me, Both frontend and backend, deployment, generating ideas and solutions, Lowered their expenses from 30$ p/m(Wix hosting) to 6$ p/m(Digital Ocean Droplet)
+  <ul>
+    <li>Developed a simple website for a dental office in New York on Django, and hosted it on a cloud platform (Digital Ocean Droplet) using gunicorn, docker, nginx</li>
+    <li>Implemented Datetime picker, created a booking form, email sending, custom admin panel</li>
+    <li>It was created single-handedly by me, Both frontend and backend, deployment, generating ideas and solutions, Lowered their expenses from 30$ p/m(Wix hosting) to 6$ p/m(Digital Ocean Droplet)</li>
+  </ul>
   link: https://www.kopyoffdental.com/
 #### Was working on a Unity game, which was published by YSO Corp
   However, this game had bad metrics(high CPI), but the fact is I made it by myself, using Unity, C#, Photoshop, Blender and a lot of other stuff. 
