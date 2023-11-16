@@ -40,6 +40,7 @@ Software Engineer
     <li>I'm learning Python, C++, C#, algorithms and data structures</li>
     <li>studying remotely in the 5th semester</li>
 </ul>
+
 #### IT Hillel Course Python(Ukrainian courses)
 Python Developer
 <ul>
