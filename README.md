@@ -34,14 +34,24 @@ Linux, Nginx, Gunicorn, Docker, Git, Pandas, Aiogram, Scraping, PostgreSQL, Mong
 
 #### College of Communication and Informatization in Odesa(Ukraine)
 Software Engineer
--received scholarship
--was on the 1st place
--I'm learning here Python, C++ and C#
--studying remotely in the 5th semester
+<ul>
+    <li>received scholarship</li>
+    <li>was on the 1st place</li>
+    <li>I'm learning Python, C++, C#, algorithms and data structures</li>
+    <li>studying remotely in the 5th semester</li>
+</ul>
 #### IT Hillel Course Python(Ukrainian courses)
 Python Developer
--I was the best one in my group
--We learned Python, Django, requests, bs4, git, html, bootstrap
+<ul>
+    <li>I was the best one in my group</li>
+    <li>We learned Python, Django, requests, bs4, git, html, bootstrap</li>
+</ul>
+
+#### Kingsborough Community College in New York
+<ul>
+    <li>got accepted to 2024 Spring semester</li>
+    <li>major: Computer Informational Systems</li>
+</ul>
 
 ## 📎LinkedIn📎
 
