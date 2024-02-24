@@ -52,11 +52,11 @@ I'm a pogrammer since 14 years old, I love Web development and Game Development�
 <b>2 more games are private and are in development.</b>
 
 ## 🎓Education🎓
-#### College in Ukraine
+#### College in Ukraine🪄
 Had been attending a college in Ukraine for 2 years as a software engineering major. Right now I study in Kingsborough Community College:
 
 
-#### Kingsborough Community College in New York
+#### Kingsborough Community College in New York🪄
 Right now I study here since I moved to NY
 ![Kingsborough Community College](https://github.com/VladGaranovskyi/VladGaranovskyi/assets/114082118/a6c2982b-f1aa-4a81-9203-9968e1e65e17)
 
