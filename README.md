@@ -32,12 +32,23 @@ I'm a pogrammer since 14 years old, I love Web development and Game Development�
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ## 💻Projects💻
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)/![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 <ul>
-  <li>![Quiz Definer](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)<a href="https://github.com/VladGaranovskyi/QuizDefiner"></a></li>
-  <li><a href="https://github.com/VladGaranovskyi/djangoChartsPandas">![Django charts](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)</a></li>
-  <li><a href="https://github.com/VladGaranovskyi/QuizDefiner">![Quiz Definer](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)</a></li>
-  <li><a href="https://github.com/VladGaranovskyi/QuizDefiner">![Quiz Definer](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)</a></li>
+  <li><a href="https://github.com/VladGaranovskyi/QuizDefiner">Quiz Definer</a></li>
+  <li><a href="https://github.com/VladGaranovskyi/djangoChartsPandas">Django Charts</a></li>
+  <li><a href="https://github.com/VladGaranovskyi/FirstDiscordBot">Discord Bot</a></li>
+  <li><a href="https://github.com/VladGaranovskyi/R6-random-generator-py-kivymd">R6Random Kivy App</a></li>
+  <li><a href="https://github.com/VladGaranovskyi/ComputerSurferbot">Computer Surfer Bot</a></li>
+  <li><a href="https://github.com/VladGaranovskyi/DentalWebsitePrototype">Dental Website</a></li>
+  <li><a href="https://github.com/VladGaranovskyi/flask-mini-web-messenger">Flask Messenger</a></li>
+  <li><a href="https://github.com/VladGaranovskyi/eCommerceWebsite">eCommerce Website</a></li>
 </ul>
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)/![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+<ul>
+  <li><a href="https://github.com/VladGaranovskyi/HookRun3D">Hook Run 3D</a></li>
+  <li><a href="https://github.com/VladGaranovskyi/Double-Shot-Run-3D-main">Double Shot Run 3D</a></li>
+</ul>
+2 more games are private and are in development.
   
 #### Website Development for Small Business
   <ul>
