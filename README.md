@@ -1,6 +1,6 @@
 # Hi, My name is Vlad😁
 I'm a pogrammer since 14 years old, I love Web development and Game Development💻
-*[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vladgaranovskyi)](https://github.com/anuraghazra/github-readme-stats)*
+
 ## ⚙️Skills⚙️
  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
  ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
@@ -9,6 +9,7 @@ I'm a pogrammer since 14 years old, I love Web development and Game Development�
  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
  ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+ ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 Django, Flask, React.js
 
 Unity, Linux, Nginx, Gunicorn, Docker, Git, Pandas, Aiogram, Scraping, PostgreSQL, MongoDB, ElasticSearch, HTML, CSS, API, OOP, Microservices
