@@ -33,7 +33,7 @@ I'm a pogrammer since 14 years old, I love Web development and Game Development�
 
 ## 💻Projects💻
 <ul>
-  <li><a href="https://github.com/VladGaranovskyi/QuizDefiner">![Quiz Definer](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)</a></li>
+  <li>![Quiz Definer](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)<a href="https://github.com/VladGaranovskyi/QuizDefiner"></a></li>
   <li><a href="https://github.com/VladGaranovskyi/djangoChartsPandas">![Django charts](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)</a></li>
   <li><a href="https://github.com/VladGaranovskyi/QuizDefiner">![Quiz Definer](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)</a></li>
   <li><a href="https://github.com/VladGaranovskyi/QuizDefiner">![Quiz Definer](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)</a></li>
