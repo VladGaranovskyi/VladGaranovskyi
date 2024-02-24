@@ -31,15 +31,13 @@ I'm a pogrammer since 14 years old, I love Web development and Game Development�
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-## 💻Work Experience💻
-
-#### Web App Development for Ukrainian Hackathon “FRESH AIR 2023”:
-  <ul>
-    <li>Me and my college friends have created a startapp for Hackathon and presented it there</li>
-    <li>I was leading the development, generating the ideas, the 80% of the backend was written by me</li>
-    <li>We were using Python Flask framework, Link is at the end of the cv</li>
-  </ul>
-  link: https://github.com/maxtkach/ustarter
+## 💻Projects💻
+<ul>
+  <li><a href="https://github.com/VladGaranovskyi/QuizDefiner">![Quiz Definer](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)</a></li>
+  <li><a href="https://github.com/VladGaranovskyi/djangoChartsPandas">![Django charts](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)</a></li>
+  <li><a href="https://github.com/VladGaranovskyi/QuizDefiner">![Quiz Definer](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)</a></li>
+  <li><a href="https://github.com/VladGaranovskyi/QuizDefiner">![Quiz Definer](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)</a></li>
+</ul>
   
 #### Website Development for Small Business
   <ul>
