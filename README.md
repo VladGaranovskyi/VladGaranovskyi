@@ -1,5 +1,5 @@
 # Hi, My name is Vlad😁
-I'm a pogrammer since 14 years old, I love Web development and Game Development💻
+I'm a pogrammer since 14 years old, I love Web development and Game Development💻.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vladgaranovskyi&layout=compact)](https://github.com/yushi1007)
 ## ⚙️Skills⚙️
 #### Programming:
