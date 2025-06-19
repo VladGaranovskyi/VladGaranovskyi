@@ -64,11 +64,14 @@ My first exposure to IT was when I couldn't run CSGO on my computer in 6th grade
 
 #### The City College of New York
 Bachelor of Engineering - BE, Computer Engineering
+
 Jun 2025 - Jun 2028
 
 #### Kingsborough Community College
 Associate of Science - AS, Computer Science
+
 Mar 2024 - Jun 2025
+
 Activities and societies: Computer Science Club President & Founder
 
 ## 📎Socials📎
