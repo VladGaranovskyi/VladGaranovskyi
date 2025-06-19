@@ -1,5 +1,11 @@
 # Hi, My name is Vlad😁
-I'm a pogrammer since 14 years old, I love Web development and Game Development💻.
+My first exposure to IT was when I couldn't run CSGO on my computer in 6th grade. I tried to free up some memory, fix the HDD grinding noise by replacing its arm above the disk, change system files, accelerate the network, etc. The moment I solved the problem by upgrading the computer's specs, I realized that I fell in love with the process. As a result, I realized my key strengths: resourcefulness, adaptability, and versatility.
+
+1. I am resourceful even from the moment I start only thinking about the work I have to do. For example, when I had started working on the website for Luxiglasses, I thought of every little detail in advance, considered all the pros and cons of every solution, and avoided using expensive third-party plug-ins which would cost a lot more than just developing some features on my own. Given that, I provided a great service, and the web app is functioning perfectly.
+
+2. I am versatile in every task that I start. For example, when I had to set up the website on DigitalOcean, and it could not send emails, I started troubleshooting. The moment I realized that my code is perfect and had no problems, I started checking the Network side. Using the networking skills I learned in my CompTIA A+ cert and IT Network Technician job, I managed to figure out the issue in the firewall that blocked the necessary port. And I did not stop there, I also blocked unnecessary ports and added IP Filtering for bots that scan websites for config files.
+
+3. At every job I had to learn something new and adapt. I was not afraid to ask questions. This was basically my whole life experience. When I came from Ukraine to USA, I had to start over. As of now, I went from being an immigrant with zero communication skills to being able to speak fluently and having worked 3 jobs related to IT, started studying in the college with GPA 4.0, and even started my own Computer Science Club there.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vladgaranovskyi&layout=compact)](https://github.com/yushi1007)
 ## ⚙️Skills⚙️
@@ -34,12 +40,14 @@ I'm a pogrammer since 14 years old, I love Web development and Game Development�
 ## 💻Projects💻
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 <ul>
+  <li><a href="https://ezzzz4.itch.io/kbcc-wayfinder">3D Campus Wayfinder</a></li>
+  <li><a href="https://luxiglasses.com">Luxiglasses</a></li>
   <li><a href="https://github.com/VladGaranovskyi/QuizDefiner">Quiz Definer</a></li>
   <li><a href="https://github.com/VladGaranovskyi/djangoChartsPandas">Django Charts</a></li>
   <li><a href="https://github.com/VladGaranovskyi/FirstDiscordBot">Discord Bot</a></li>
   <li><a href="https://github.com/VladGaranovskyi/R6-random-generator-py-kivymd">R6Random Kivy App</a></li>
   <li><a href="https://github.com/VladGaranovskyi/ComputerSurferbot">Computer Surfer Bot</a></li>
-  <li><a href="https://github.com/VladGaranovskyi/DentalWebsitePrototype">Dental Website</a></li>
+  <li><a href="https://kopyoffdental.com">Dental Website</a></li>
   <li><a href="https://github.com/VladGaranovskyi/flask-mini-web-messenger">Flask Messenger</a></li>
   <li><a href="https://github.com/VladGaranovskyi/eCommerceWebsite">eCommerce Website</a></li>
   <li><a href="https://github.com/maxtkach/ustarter">UFounder</a></li>
@@ -53,12 +61,15 @@ I'm a pogrammer since 14 years old, I love Web development and Game Development�
 <b>2 more games are private and are in development.</b>
 
 ## 🎓Education🎓
-#### ✨College in Ukraine✨
-Had been attending a college in Ukraine for 2 years as a software engineering major.
 
+#### The City College of New York
+Bachelor of Engineering - BE, Computer EngineeringBachelor of Engineering - BE, Computer Engineering
+Jun 2025 - Jun 2028
 
-#### ✨Kingsborough Community College in New York✨
-Right now I study here since I moved to NY.
+#### Kingsborough Community College
+Associate of Science - AS, Computer ScienceAssociate of Science - AS, Computer Science
+Mar 2024 - Jun 2025
+Activities and societies: Computer Science Club President & Founder
 
 ## 📎Socials📎
 
