@@ -37,7 +37,7 @@ I'm a Computer Engineering student passionate about building fast, reliable, and
 
 ## 🧠 Featured Projects
 
-### 🔧 [PiGuardian](https://github.com/VladGaranovskyi) *(private)*
+### 🔧 PiGuardian *(private)*
 > Custom C firmware for Raspberry Pi Zero 2 W to monitor Wi-Fi networks for spoofing, deauth attacks, and evil twins.  
 > Lightweight packet-sniffing daemon that sends alerts to a local HTTP server. Uses <30% CPU and <10MB RAM.
 
@@ -48,7 +48,7 @@ I'm a Computer Engineering student passionate about building fast, reliable, and
 ### 🛠 [Multithreaded HTTP Server in C](https://github.com/VladGaranovskyi/VG_HTTP_Server_in_C)
 > Socket-based web server in pure C supporting concurrent file serving, IP whitelisting, and secure path parsing.
 
-### 🌐 [E-commerce Backend @ Luxiglasses](https://github.com/VladGaranovskyi) *(private)*
+### 🌐 E-commerce Backend @ Luxiglasses *(private)*
 > Developed and deployed a Django-based store with PostgreSQL, Redis, Stripe API, and Dockerized infrastructure on AWS EC2 able to handle 1000+ users
 
 ### 🧭 [Wayfinder 3D Map App](https://ezzzz4.itch.io/kbcc-wayfinder)
@@ -59,6 +59,9 @@ I'm a Computer Engineering student passionate about building fast, reliable, and
 
 ### 🥷 [MITM packet sniffing python script](https://github.com/VladGaranovskyi/VG_MITM_Sniff_Spoof)
 > Used scapy to sniff packets and poison ARP on OSI layer 2
+
+### 🥷 Numera *(private unfinished)*
+> Developed a RESTful API on Java Spring with React.js frontend with MongoDB
 
 ---
 
