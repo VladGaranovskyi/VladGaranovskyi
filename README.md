@@ -54,14 +54,11 @@ I'm a Computer Engineering student passionate about building fast, reliable, and
 ### 🧭 [Wayfinder 3D Map App](https://ezzzz4.itch.io/kbcc-wayfinder)
 > Unity + C# campus map for room navigation with 3D pathfinding and interactive UI used by 1000+ students.
 
----
+### 🥷 [AIssistant](https://github.com/VladGaranovskyi/AIssistant)
+> Developed a Java Spring RESTful API for an advanced AI-based ticketing system to match the best IT Assistant to the IT ticket instantly
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VladGaranovskyi&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VladGaranovskyi&layout=compact&theme=tokyonight" width="48%" />
-</p>
+### 🥷 [MITM packet sniffing python script](https://github.com/VladGaranovskyi/VG_MITM_Sniff_Spoof)
+> Used scapy to sniff packets and poison ARP on OSI layer 2
 
 ---
 
