@@ -71,4 +71,5 @@ I'm a Computer Engineering student passionate about building fast, reliable, and
 - 💼 LinkedIn: [linkedin.com/in/vladyslav-garanovskyi](https://www.linkedin.com/in/vladyslav-garanovskyi-b05132294/)
 - 📧 Email: [garanovskiyvlad2005@gmail.com](mailto:garanovskiyvlad2005@gmail.com)
 
+
 ---
