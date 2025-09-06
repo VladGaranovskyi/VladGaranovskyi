@@ -63,6 +63,9 @@ I'm a Computer Engineering student passionate about building fast, reliable, and
 ### 🥷 Numera *(private unfinished)*
 > Developed a RESTful API on Java Spring with React.js frontend with MongoDB
 
+### [UFounder](https://github.com/maxtkach/ustarter)
+> Developed a Crowd-funding platforms along with 4 other members on Fresh Hackathon 2023 using Python Flask and vanilla HTML/CSS/JS
+
 ---
 
 ## 📫 Connect With Me
