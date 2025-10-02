@@ -54,6 +54,9 @@ I'm a Computer Engineering student passionate about building fast, reliable, and
 ### 🧭 [Wayfinder 3D Map App](https://ezzzz4.itch.io/kbcc-wayfinder)
 > Unity + C# campus map for room navigation with 3D pathfinding and interactive UI used by 1000+ students.
 
+### 🥷 [reciPal](https://github.com/farh4nk/reciPal/tree/main)
+> Developed an AI-based cooking recipe collection which converts video links to ready-to-use recipes with ingredients and steps to cook
+
 ### 🥷 [AIssistant](https://github.com/VladGaranovskyi/AIssistant)
 > Developed a Java Spring RESTful API for an advanced AI-based ticketing system to match the best IT Assistant to the IT ticket instantly
 
