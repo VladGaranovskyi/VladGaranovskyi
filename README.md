@@ -6,7 +6,7 @@ Computer Engineering @ CCNY | AI/Software Engineering Intern @ GSoE | Prev SWE I
 
 ## 👨‍💻 Portfolio
 
-- 🌐 Portfolio: [vladgaranovskyi.github.io](https://vladgaranovskyi.github.io/)
+- 🌐 [vladgaranovskyi.github.io](https://vladgaranovskyi.github.io/)
 
 ## 📫 Connect With Me
 
